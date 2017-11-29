@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "WQJBankCardTextField"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "iOS银行卡输入框"
   s.description  = "几行代码轻松搞定，银行卡输入框"
   s.homepage     = "https://github.com/mnz12138/WQJBankCardTextField.git"
