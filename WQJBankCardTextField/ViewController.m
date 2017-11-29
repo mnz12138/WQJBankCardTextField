@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "WQJBankCardTextField/WQJBankCardTextField.h"
+#import "WQJBankCardTextField.h"
 
 @interface ViewController ()
 
