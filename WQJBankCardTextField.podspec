@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.author             = { "王全金" => "wqjruanjian@126.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/mnz12138/WQJBankCardTextField.git", :tag => "v#{s.version}" }
-  s.source_files  = "Classes", "WQJBankCardTextField/*.{h,m}"
+  s.source_files  = "WQJBankCardTextField", "WQJBankCardTextField/*.{h,m}"
 
 end
